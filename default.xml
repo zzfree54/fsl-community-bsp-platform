@@ -17,8 +17,8 @@
   </project>
 
   <project remote="freescale" revision="master-next" name="meta-freescale" path="sources/meta-freescale"/>
-  <project remote="freescale" revision="master-next" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
-  <project remote="freescale" revision="master-next" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
+  <project remote="freescale" revision="master-next" name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty"/>
+  <project remote="freescale" revision="master-next" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
   <project remote="freescale" revision="master" name="Documentation" path="sources/Documentation"/>
 
 </manifest>
